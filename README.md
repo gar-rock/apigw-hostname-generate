@@ -4,6 +4,8 @@
 
 This project generates a list of most probably [AWS API Gateway hostnames](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html#:~:text=supports%20programmatic%20access%29.-,API%20endpoint,-A%20hostname%20for). It's intended for research purposes to aid in identifying and understanding API Gateway endpoints.
 
+This project was featured in my article on [API Gateways: How An Attacker Might Find Your API And Exploit It](https://medium.com/@gar.rock/interrogating-aws-api-gateway-finding-open-apis-on-the-internet-cef3dbba2eac)
+
 ## Motivation
 
 API Gateway hostnames can sometimes be challenging to predict or enumerate, especially in large-scale environments or when dealing with complex naming conventions. This tool aims to provide a method for generating likely hostnames to assist researchers in exploring AWS infrastructure.
