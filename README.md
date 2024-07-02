@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project generates a list of most probably AWS API Gateway hostnames. It's intended for research purposes to aid in identifying and understanding API Gateway endpoints.
+This project generates a list of most probably [AWS API Gateway hostnames](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html#:~:text=supports%20programmatic%20access%29.-,API%20endpoint,-A%20hostname%20for). It's intended for research purposes to aid in identifying and understanding API Gateway endpoints.
 
 ## Motivation
 
