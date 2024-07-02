@@ -22,6 +22,34 @@ API Gateway hostnames can sometimes be challenging to predict or enumerate, espe
 
 ![generate_api.gif](generate_api.gif)
 
+Some example endpoints:
+```
+.
+.
+.
+rj14mmob7v
+nsuk1zyn7v
+fx61n6jrff
+ln3husey5n
+cwj1oywpq9
+7l8arbogfk
+3uonjir95x
+x4de8fbkb9
+fdysb21bld
+bdux6hll1y
+klm8t8gusu
+crt4jakqs6
+wf2pv6h8ji
+uvwx4q52oc
+h7t4gyrv9n
+6a5kjnwmej
+cn3zig0nfa
+d56lw6fotg
+.
+.
+.
+```
+
 ## Disclaimer
 
 This project is provided for educational and research purposes only. Any usage of the generated hostnames for malicious or unauthorized activities is strictly prohibited. 
