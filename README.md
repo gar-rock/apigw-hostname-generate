@@ -15,10 +15,12 @@ API Gateway hostnames can sometimes be challenging to predict or enumerate, espe
 2. **Dependencies**: Ensure you have Python installed on your system. This project uses Python 3.x.
 
 3. **Generating Hostnames**:
-- Run the script to generate a list of 10 million API Gateway hostnames, which is then cutdown to the most probably 50% (~ 5 million) using regex
+- Run `generate.py` to generate a list of 10 million API Gateway hostnames, which is then cutdown to the most probably 50% (~ 5 million) using regex
 
 4. **Output**:
 - The generated hostnames will be saved to a file named `api_gateway_endpoints.txt` in the project directory.
+
+![generate.gif](generate.gif)
 
 ## Disclaimer
 
