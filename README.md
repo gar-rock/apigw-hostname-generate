@@ -20,7 +20,7 @@ API Gateway hostnames can sometimes be challenging to predict or enumerate, espe
 4. **Output**:
 - The generated hostnames will be saved to a file named `api_gateway_endpoints.txt` in the project directory.
 
-![generate.gif](generate.gif)
+![generate_api.gif](generate_api.gif)
 
 ## Disclaimer
 
